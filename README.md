@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hey Wassup
 
-<!--
-**rhayanpontes/rhayanpontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Rhayan, I'm 16y, and I'm a Brazilian.
+I don't get lucky, I make my own luck
 
-Here are some ideas to get you started:
+#####
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+* 👨‍🏫 Student of the Federal Institute of Paraná- -IFPR
+  * Computer technician integrated with High School 
+
+* 👨‍💻 Learning Programming
+  *  Studying Web Development / Front - End 
+
+## Technologies I Know / I'm Learning
++ JavaScript | Learning
++ HTML  | Learning
++ CSS  | Learning
+
+
+## Contact Me
+- <a href="https://www.linkedin.com/in/rhayan-pontes-618a2220a/"><p>Linkedin</p></a>
+- <a href="mailto:danyelppontes234@gmail.com"><p>Email</p></a>
+- <a href="https://instagram.com/rhyanpontes_"><p>Instagram</p></a>
