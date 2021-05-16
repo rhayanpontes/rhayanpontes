@@ -3,7 +3,14 @@
 ### My name is Rhayan, I'm 16y, and I'm a Brazilian.
 I don't get lucky, I make my own luck
 
-#####
+### Its Me
+
+| [<img src="https://avatars.githubusercontent.com/u/81394506?v=4" width="75px;"/>](https://github.com/rhayanpontes) |
+| :------------------------------------------------------------------------------------------------------------------------: |
+
+| [Rhayan Pontes](https://github.com/rhayanpontes)
+
+<hr>
 
 ## About Me
 
@@ -13,13 +20,14 @@ I don't get lucky, I make my own luck
 * 👨‍💻 Learning Programming
   *  Studying Web Development / Front - End 
 
-## Technologies I Know / I'm Learning
+## Techs
 + JavaScript | Learning
++ TypeScript | Learning
 + HTML  | Learning
 + CSS  | Learning
 
 
-## Contact Me
-- <a href="https://www.linkedin.com/in/rhayan-pontes-618a2220a/"><p>Linkedin</p></a>
-- <a href="mailto:danyelppontes234@gmail.com"><p>Email</p></a>
-- <a href="https://instagram.com/rhyanpontes_"><p>Instagram</p></a>
+## Contact
+[Linkedin](https://www.linkedin.com/in/rhayan-pontes-618a2220a/)
+[Instagram](https://instagram.com/rhyanpontes_)
+[Email](mailto:danyelppontes234@gmail.com)
