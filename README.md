@@ -1,7 +1,6 @@
 # Hey Wassup
 
-### My name is Rhayan, I'm 16y, and I'm a Brazilian.
-I don't get lucky, I make my own luck
+### My name is Rhayan, I'm 17y, and I'm a Brazilian.
 
 ### Its Me
 
@@ -29,5 +28,5 @@ I don't get lucky, I make my own luck
 
 > ## Contact
 [Linkedin](https://www.linkedin.com/in/rhayan-pontes-618a2220a/) <br>
-[Instagram](https://instagram.com/rhyanpontes_) <br>
+[Instagram](https://instagram.com/rhyanpontess) <br>
 [Email](mailto:danyelppontes234@gmail.com)
