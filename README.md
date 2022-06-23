@@ -21,7 +21,7 @@
 
 > ## Techs
 + JavaScript | Learning
-+ TypeScript | Learning
++ Python | Learning
 + HTML  | Learning
 + CSS  | Learning
 
